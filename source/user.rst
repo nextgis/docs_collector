@@ -55,15 +55,49 @@
 
 Сообщите ваш логин администратору сбора, что бы он добавил вас в приватный проект. Приватные проекты нужны что бы никто с улицы не мог в них зайти.
 
-выберете проект для сбора. Приватные проекты открываются по нажатию кнопки с замком.
+
+     
+ .. figure:: _static/ng_collector_run_screen4.png
+   :name: ng_collector_run_screen4
+   :align: center
+   :height: 10cm
+   
+   Выберите проект для сбора.
+   
+   Приватные проекты открываются по нажатию кнопки с замком.
+
+ .. figure:: _static/ng_collector_run_screen5.png
+   :name: ng_collector_run_screen5
+   :align: center
+   :height: 10cm
+   
+   Выберите проект для сбора.
+   
 
 
 3. Идите в поле, и приступайте к сбору. 
 
+ .. figure:: _static/ng_collector_run_screen6.png
+   :name: ng_collector_run_screen6
+   :align: center
+   :height: 10cm
+
 4. Нажмите на экране кнопку “На карте” - поставить объект на карту по ориентирам пальцем, или “ПО GPS” - поставить точку туда где вы стоите. 
 
+
+ .. figure:: _static/ng_collector_run_screen6permission.png
+   :name: ng_collector_run_screen6permission
+   :align: center
+   :height: 10cm
+   
 В первый раз приложение запросит разрешение на использование GPS и камеры. Разрешите их.
 
+
+ .. figure:: _static/ng_collector_run_screen7.png
+   :name: ng_collector_run_screen7
+   :align: center
+   :height: 10cm
+   
 На экране появится форма ввода, которую нарисовал организатор сбора. По вопросам по вводу данных обращайтесь к нему. 
 
 Основная кнопка на главном экране (внизу) включает карту
