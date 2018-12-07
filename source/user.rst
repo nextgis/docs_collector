@@ -9,14 +9,48 @@
 
 1. Зайти в google play, поискать по NextGIS, поставить NexiGIS Collector. https://play.google.com/store/apps/details?id=com.nextgis.simple_collector
  
-  иконка play
+ .. figure:: _static/ng_collector_googleplay_icon.png
+   :name: ng_collector_googleplay_icon
+   :align: center
+   
+   Иконка Play Market
+ 
   
-  Поиск в Play Market
+ .. figure:: _static/ng_collector_googleplay_search.png
+   :name: ng_collector_googleplay_search
+   :align: center
+   :height: 10cm
+   
+   Поиск в Play Market
   
   
   
 2. Пока есть интернет, запустите его, Разрешите все запросы приложения (Контакты).
 
+  
+ .. figure:: _static/ng_collector_run_screen1.png
+   :name: ng_collector_run_screen1
+   :align: center
+   :height: 10cm
+   
+   Экран 1
+
+  
+ .. figure:: _static/ng_collector_run_screen2.png
+   :name: ng_collector_run_screen2
+   :align: center
+   :height: 10cm
+   
+   Экран 2
+   
+     
+ .. figure:: _static/ng_collector_run_screen3login.png
+   :name: ng_collector_run_screen3login
+   :align: center
+   :height: 10cm
+   
+   Экран логина
+   
 Создайте там аккаунт на nextgis.com, 
 
 Сообщите ваш логин администратору сбора, что бы он добавил вас в приватный проект. Приватные проекты нужны что бы никто с улицы не мог в них зайти.
