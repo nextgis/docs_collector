@@ -74,8 +74,7 @@
    Выберите проект для сбора.
    
 
-
-3. Идите в поле, и приступайте к сбору. 
+3. Приступайте к сбору. 
 
  .. figure:: _static/ng_collector_run_screen6.png
    :name: ng_collector_run_screen6
