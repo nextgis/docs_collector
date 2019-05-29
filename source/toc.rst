@@ -12,3 +12,4 @@
 
    intro
    principles
+   stages
