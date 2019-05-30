@@ -13,3 +13,4 @@
    intro
    principles
    stages
+   user
