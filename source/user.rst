@@ -20,8 +20,8 @@ https://play.google.com/store/apps/details?id=com.nextgis.collector
    Иконка Play Market
  
   
- .. figure:: _static/ng_collector_googleplay_search.png
-   :name: ng_collector_googleplay_search
+ .. figure:: _static/ngc-user-01.png
+   :name: ngc-user-01
    :align: center
    :width: 10cm
    
@@ -31,28 +31,40 @@ https://play.google.com/store/apps/details?id=com.nextgis.collector
 После установки запустить приложение, пропустить информационные окна и дать необходимые разрешения:
 
   
- .. figure:: _static/ng_collector_run_screen1.png
-   :name: ng_collector_run_screen1
+ .. figure:: _static/ngc-user-02.png
+   :name: ngc-user-02
    :align: center
    :width: 10cm
    
    Экран 1
 
   
- .. figure:: _static/ng_collector_run_screen2.png
-   :name: ng_collector_run_screen2
+ .. figure:: _static/ngc-user-03.png
+   :name: ngc-user-03
    :align: center
    :width: 10cm
    
    Экран 2
    
      
- .. figure:: _static/ng_collector_run_screen3login.png
-   :name: ng_collector_run_screen3login
+ .. figure:: _static/ngc-user-04.png
+   :name: ngc-user-04
    :align: center
    :width: 10cm
    
    Экран логина
+
+     
+ .. figure:: _static/ngc-user-05.png
+   :name: ngc-user-05
+   :align: center
+   :width: 10cm
+   
+     
+ .. figure:: _static/ngc-user-06.png
+   :name: ngc-user-06
+   :align: center
+   :width: 10cm   
 
 После успешного входа участник команды по сбору данных увидит список проектов. В случае нашего тестового приложения - это проект, созданный в предыдущих пунктах данного руководства. Так как мы установили в настройках стартовую страницу в виде списка, то мобильное приложение отображает список слоев. Также можно переключить в режим карты.
 
@@ -65,8 +77,8 @@ https://play.google.com/store/apps/details?id=com.nextgis.collector
 
 
      
- .. figure:: _static/ng_collector_run_screen4.png
-   :name: ng_collector_run_screen4
+ .. figure:: _static/ngc-user-07.png
+   :name: ngc-user-07
    :align: center
    :width: 10cm
    
@@ -74,8 +86,8 @@ https://play.google.com/store/apps/details?id=com.nextgis.collector
    
    Приватные проекты открываются по нажатию кнопки с замком.
 
- .. figure:: _static/ng_collector_run_screen5.png
-   :name: ng_collector_run_screen5
+ .. figure:: _static/ngc-user-08.png
+   :name: ngc-user-08
    :align: center
    :width: 10cm
    
@@ -84,8 +96,8 @@ https://play.google.com/store/apps/details?id=com.nextgis.collector
 
 3. Приступайте к сбору. 
 
- .. figure:: _static/ng_collector_run_screen6.png
-   :name: ng_collector_run_screen6
+ .. figure:: _static/ngc-user-09.png
+   :name: ngc-user-09
    :align: center
    :width: 10cm
 
