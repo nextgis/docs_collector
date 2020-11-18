@@ -1,3 +1,7 @@
+.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
+
+.. _ngcollector_install:
+
 Установка приложения
 ====================
 Мобильное приложение NextGIS Collector можно установить из Google Play Store по ссылке - `NextGIS Collector`_.
