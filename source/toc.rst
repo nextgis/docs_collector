@@ -2,6 +2,9 @@
 
 .. NextGIS Collector TOC
  
+Документация NextGIS Collector
+==============================
+ 
 .. toctree::
    :maxdepth: 2
 
