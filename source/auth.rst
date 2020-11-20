@@ -13,7 +13,7 @@
 .. figure:: _static/ngidop_collector.png
    :name: ngidop_collector
    :align: center
-   :height: 5cm
+   :height: 3cm
    
    Добавление собственного сервера авторизации в NextGIS Collector
 
