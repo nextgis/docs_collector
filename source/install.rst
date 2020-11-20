@@ -9,7 +9,7 @@ NextGIS Collector mobile application can be installed from the `Google Play Stor
 
  .. figure:: _static/ngc-user-01.png
    :name: ngc-user-01
-   :align: left
+   :align: center
    :width: 10cm
 
    Search in в Play Market
@@ -20,32 +20,32 @@ Run app after installation, skip information and grant permissions to NextGIS Co
 
  .. figure:: _static/ngc-user-02.png
    :name: ngc-user-02
-   :align: left
+   :align: center
    :width: 10cm
 
 
 
  .. figure:: _static/ngc-user-03.png
    :name: ngc-user-03
-   :align: left
+   :align: center
    :width: 10cm
 
 
 
  .. figure:: _static/ngc-user-04.png
    :name: ngc-user-04
-   :align: left
+   :align: center
    :width: 10cm
 
 
 
  .. figure:: _static/ngc-user-05.png
    :name: ngc-user-05
-   :align: left
+   :align: center
    :width: 10cm
 
 
  .. figure:: _static/ngc-user-06.png
    :name: ngc-user-06
-   :align: left
+   :align: center
    :width: 10cm
