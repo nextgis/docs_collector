@@ -49,7 +49,7 @@
 .. figure:: _static/ngcol_add_photo.png
    :name: ngcol_add_photo
    :align: center
-   :height: 215cm
+   :height: 15cm
  
    Прикрепление фотографии. Можно выбрать как из памяти устройства, так и сделать новую в приложении
 
