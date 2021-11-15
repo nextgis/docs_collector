@@ -13,3 +13,4 @@
    install
    auth
    operations
+   map_tools
