@@ -22,7 +22,7 @@
 .. figure:: _static/ngcol_add_point.png
    :name: ngcol_add_point
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Иконка добавления точки
   
@@ -30,7 +30,7 @@
 .. figure:: _static/ngcol_map_gps.png
    :name: ngcol_map_gps
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Способы добавления точки
 
@@ -38,7 +38,7 @@
 .. figure:: _static/ngcol_attr_gps.png
    :name: ngcol_attr_gps
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Добавление точки по GPS
 
@@ -49,14 +49,14 @@
 .. figure:: _static/ngcol_add_photo.png
    :name: ngcol_add_photo
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Прикрепление фотографии. Можно выбрать как из памяти устройства, так и сделать новую в приложении
 
 .. figure:: _static/ngcol_save_location.png
    :name: ngcol_save_location
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Иконка "дискета" - сохранение местоположения точки
 
@@ -79,7 +79,7 @@
 .. figure:: _static/ngcol_edit_pont.png
    :name: ngcol_edit_pont
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Инструменты редактирования местоположения и атрибутов точки
 
@@ -92,7 +92,7 @@
 .. figure:: _static/ngcol_edit_location.png
    :name: ngcol_edit_location
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Инструменты "по центру карты" и "по текущему местоположению"
 
@@ -111,7 +111,7 @@
 .. figure:: _static/ngcol_scale.png
    :name: ngcol_scale
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Инструменты "по центру карты" и "по текущему местоположению"
 
@@ -126,7 +126,7 @@
 .. figure:: _static/ngcol_track_icon.png
    :name: ngcol_track_icon
    :align: center
-   :height: 10cm
+   :height: 5cm
  
    Иконка "Треки"
 
@@ -134,7 +134,7 @@
 .. figure:: _static/ngcol_start_track.png
    :name: ngcol_start_track
    :align: center
-   :height: 10cm
+   :height: 20cm
  
    Начало записи трека/список треков
 
@@ -152,7 +152,7 @@
 .. figure:: _static/ngcol_permissions2.png
    :name: ngcol_permissions2
    :align: center
-   :height: 10cm
+   :height: 20cm
  
   Разрешить использование местоположения в любом (в том числе фоновом) режиме
 
@@ -162,7 +162,7 @@
 .. figure:: _static/ngcol_track_list.png
    :name: ngcol_track_list
    :align: center
-   :height: 10cm
+   :height: 5cm
  
    Список записанных треков 
 
@@ -177,6 +177,6 @@
 .. figure:: _static/ngcol_sync.png
    :name: ngcol_sync
    :align: center
-   :height: 10cm
+   :height: 5cm
  
    Синхронизация
