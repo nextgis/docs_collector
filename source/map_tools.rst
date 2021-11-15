@@ -22,7 +22,7 @@
 .. figure:: _static/ngcol_add_point.png
    :name: ngcol_add_point
    :align: center
-   :height: 20cm
+   :height: 15cm
  
    Иконка добавления точки
   
@@ -30,7 +30,7 @@
 .. figure:: _static/ngcol_map_gps.png
    :name: ngcol_map_gps
    :align: center
-   :height: 20cm
+   :height: 15cm
  
    Способы добавления точки
 
@@ -38,7 +38,7 @@
 .. figure:: _static/ngcol_attr_gps.png
    :name: ngcol_attr_gps
    :align: center
-   :height: 20cm
+   :height: 15cm
  
    Добавление точки по GPS
 
@@ -49,7 +49,7 @@
 .. figure:: _static/ngcol_add_photo.png
    :name: ngcol_add_photo
    :align: center
-   :height: 20cm
+   :height: 215cm
  
    Прикрепление фотографии. Можно выбрать как из памяти устройства, так и сделать новую в приложении
 
@@ -78,8 +78,7 @@
 
 .. figure:: _static/ngcol_edit_pont.png
    :name: ngcol_edit_pont
-   :align: center
-   :height: 20cm
+   :align: 15cm
  
    Инструменты редактирования местоположения и атрибутов точки
 
@@ -92,7 +91,7 @@
 .. figure:: _static/ngcol_edit_location.png
    :name: ngcol_edit_location
    :align: center
-   :height: 20cm
+   :height: 15cm
  
    Инструменты "по центру карты" и "по текущему местоположению"
 
@@ -134,7 +133,7 @@
 .. figure:: _static/ngcol_start_track.png
    :name: ngcol_start_track
    :align: center
-   :height: 20cm
+   :height: 15cm
  
    Начало записи трека/список треков
 
