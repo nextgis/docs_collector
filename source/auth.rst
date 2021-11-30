@@ -3,7 +3,14 @@
 .. _ngcollector_auth:
 
 Authorization
-============
+==============
+
+Via cloud server (my.nextgis.com)
+-----------------------------------
+
+For subscribed users, authorization in the NextGIS Collector application is carried out via https://my.nextgis.com/ server by default.
+The email and password from the cloud NextGIS ID are used as a login and password for app.
+
 
 Via on-premise (NGIDOP)
 ----------------------
