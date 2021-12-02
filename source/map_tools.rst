@@ -97,3 +97,85 @@ To edit a point you need:
 
 3. Edit attribute information and attachments as needed.
 
+
+.. _ngcol_scale:
+
+Zoom and current location
+--------------------------
+
+The data collector has the ability to control the current scale of the map.
+To do this, on the left side of the map there are items for zooming in and out (+/-).
+In the same block, you can set the map extent by the current location of the device.
+
+.. figure:: _static/ngcol_scale.png
+   :name: ngcol_scale
+   :align: center
+   :height: 20cm
+ 
+   Zoom and current location controls
+
+
+.. _ngcol_tracks:
+
+Tracks
+------
+
+NextGIS Collector allows you to record tracks. The track control icon is on the top panel.
+
+.. figure:: _static/ngcol_track_icon.png
+   :name: ngcol_track_icon
+   :align: center
+   :height: 5cm
+ 
+   Tracks icon
+
+
+.. figure:: _static/ngcol_start_track.png
+   :name: ngcol_start_track
+   :align: center
+   :height: 10cm
+ 
+   Starting track recording/track list
+
+
+To do this, the app must be given permission to write data in the background in the device settings.
+
+.. figure:: _static/ngcol_permissions1.png
+   :name: ngcol_permissions1
+   :align: center
+   :height: 10cm
+ 
+   Background geolocation request
+
+
+.. figure:: _static/ngcol_permissons2.png
+   :name: ngcol_permissons2
+   :align: center
+   :height: 10cm
+   
+   Allow location to be used in any (including background) mode
+
+
+User-recorded tracks can be shown / hidden, changed digital palette, exported or deleted.
+
+.. figure:: _static/ngcol_track_list.png
+   :name: ngcol_track_list
+   :align: center
+   :height: 5cm
+ 
+   Recorded track list
+   
+   
+.. _ngcol_sync:
+
+Synchronization
+----------------
+
+To force synchronization of data with Web GIS, you can use the icon on the top panel.
+
+.. figure:: _static/ngcol_sync.png
+   :name: ngcol_sync
+   :align: center
+   :height: 5cm
+ 
+   Synchronization
