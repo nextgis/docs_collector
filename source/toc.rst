@@ -11,3 +11,4 @@ NextGIS Collector documentation
    install
    auth
    operations
+   map_tools
