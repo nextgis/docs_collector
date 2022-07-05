@@ -1,6 +1,6 @@
 .. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
 
-.. _sec_tools:
+.. _adv_tools:
 
 Вспомогательные функции
 ========================
