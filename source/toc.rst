@@ -12,4 +12,4 @@ NextGIS Collector documentation
    auth
    operations
    map_tools
-   sec_tools
+   adv_tools
