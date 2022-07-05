@@ -12,5 +12,5 @@
    auth
    operations
    map_tools
-   aux_tools
+   sec_tools
    
