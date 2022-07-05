@@ -1,8 +1,8 @@
 .. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
 
-.. _sec_tools:
+.. _adv_tools:
 
-Secondary tools
+Advanced tools
 ===============
 
 .. _ngcol_backup:
