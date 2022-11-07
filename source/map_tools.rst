@@ -22,15 +22,15 @@
 .. figure:: _static/ngcol_add_point.png
    :name: ngcol_add_point
    :align: center
-   :height: 10cm
+   :width: 10cm
  
-   Иконка добавления точки
+   Иконка добавления элемента
   
 
 .. figure:: _static/ngcol_map_gps.png
    :name: ngcol_map_gps
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Способы добавления точки
 
@@ -38,7 +38,7 @@
 .. figure:: _static/ngcol_attr_gps.png
    :name: ngcol_attr_gps
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Добавление точки по GPS
 
@@ -49,14 +49,14 @@
 .. figure:: _static/ngcol_add_photo.png
    :name: ngcol_add_photo
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Прикрепление фотографии. Можно выбрать как из памяти устройства, так и сделать новую в приложении
 
 .. figure:: _static/ngcol_save_location.png
    :name: ngcol_save_location
    :align: center
-   :height: 20cm
+   :width: 10cm
  
    Иконка "дискета" - сохранение местоположения точки
 
@@ -78,7 +78,8 @@
 
 .. figure:: _static/ngcol_edit_pont.png
    :name: ngcol_edit_pont
-   :align: 10cm
+   :align: center
+   :width: 10cm
  
    Инструменты редактирования местоположения и атрибутов точки
 
@@ -91,11 +92,109 @@
 .. figure:: _static/ngcol_edit_location.png
    :name: ngcol_edit_location
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Инструменты "по центру карты" и "по текущему местоположению"
 
 3. При необходимости отредактировать атрибутивную информацию и вложения.
+
+
+.. _ngcol_create_point:
+
+Добавить полигон
+----------------
+
+Для того, чтобы добавить полигон на один из слоев проекта, нужно перейти к карте и нажать на иконку "+", а затем выбрать слой, содержащий полигоны.
+
+.. figure:: _static/ngcoll_add_polygon_ru.png
+   :name: ngcoll_add_polygon_pic
+   :align: center
+   :width: 10cm
+ 
+   Иконка добавления точки
+
+Затем нужно выбрать слой, на который будет добавлен полигон, и способ его добавления - на карте или по gps.
+
+.. figure:: _static/ngcol_map_gps_polygon_ru.png
+   :name: ngcol_map_gps_polygon_pic
+   :align: center
+   :width: 10cm
+   
+   Выбор слоя и способа добавления полигона
+
+После этого снова откроется карта, на которой будет добавлен треугольник с курсором в левом верхнем углу. 
+
+.. figure:: _static/ngcol_new_polygon_ru.png
+   :name: ngcol_new_polygon_pic
+   :align: center
+   :width: 10cm
+   
+   Шаблон полигона
+
+Для того, чтобы придать полигону необходимую форму, выберите курсором вершину и перетяните её в нужное место.
+
+.. figure:: _static/ngcol_polygon_edit_ru.png
+   :name: ngcol_polygon_edit_pic
+   :align: center
+   :width: 10cm
+   
+   Изменение формы полигона
+
+Чтобы сохранить новый полигон, нажмите на иконку с дискетой в правом верхнем углу.
+
+.. figure:: _static/ngcol_polygon_save_ru.png
+   :name: ngcol_polygon_save_pic
+   :align: center
+   :width: 10cm
+   
+   Иконка сохранения полигона
+
+В следующем окне введите необходимую аттрибутивную информацию и нажмите галочку в верхней панели для завершения сохранения.
+
+.. figure:: _static/ngcol_polygon_ref_ru.png
+   :name: ngcol_polygon_ref_pic
+   :align: center
+   :width: 10cm
+   
+   Завершение сохранения
+
+Созданный полигон будет отображаться в приложении и на веб-карте в Веб ГИС, если на неё добавлен соответствующий слой.
+
+.. figure:: _static/ngcol_polygon_complete_ru.png
+   :name: ngcol_polygon_complete_pic
+   :align: center
+   :width: 10cm
+   
+   Созданный полигон на карте в приложении NextGIS Collector
+   
+.. figure:: _static/ngcol_polygon_on_webmap_ru.png
+   :name: ngcol_polygon_on_webmap_pic
+   :align: center
+   :width: 20cm
+   
+   Созданный полигон на карте в Веб ГИС
+
+..:note:
+
+   Следите за тем, чтобы слой подложки не был расположен выше слоя, на который добавляются полигоны, и не загораживал их.
+
+
+.. _ngcol_modify_polygon:
+
+Редактирование полигона
+-----------------------
+
+Для того, чтобы отредактировать полигон, нажмите на него. Вокруг полигона появится голубая рамка, а справа - две иконки редактирования. 
+
+* Верхняя - редактирование формы полигона (выберите курсором вершину и перетащите её на нужное место).
+* Нижняя - редактирование аттрибутивной информации.
+
+.. figure:: _static/ngcol_polygon_editing_tools_ru.png
+   :name: ngcol_polygon_editing_tools_pic
+   :align: center
+   :width: 10cm
+   
+   Редактирование полигона
 
 
 .. _ngcol_scale:
