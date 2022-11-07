@@ -22,7 +22,7 @@ There are two ways to add a point in the application:
 .. figure:: _static/ngcol_add_point.png
    :name: ngcol_add_point
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Add point icon
   
@@ -30,7 +30,7 @@ There are two ways to add a point in the application:
 .. figure:: _static/ngcol_map_gps.png
    :name: ngcol_map_gps
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Ways to add a point
 
@@ -38,7 +38,7 @@ There are two ways to add a point in the application:
 .. figure:: _static/ngcol_attr_gps.png
    :name: ngcol_attr_gps
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Adding a point by GPS
 
@@ -50,14 +50,14 @@ Confirmation of adding a point is done by clicking on the checkmark on the top p
 .. figure:: _static/ngcol_add_photo.png
    :name: ngcol_add_photo
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Attaching a photo. You can select both from the device memory and make a new one in the application
 
 .. figure:: _static/ngcol_save_location.png
    :name: ngcol_save_location
    :align: center
-   :height: 20cm
+   :width: 10cm
  
    Floppy disk icon - save the location of the point
 
@@ -78,7 +78,8 @@ To edit a point you need:
 
 .. figure:: _static/ngcol_edit_pont.png
    :name: ngcol_edit_pont
-   :align: 10cm
+   :align: center
+   :width: 10cm
  
    Point location and Attribute editing tools
 
@@ -91,11 +92,110 @@ To edit a point you need:
 .. figure:: _static/ngcol_edit_location.png
    :name: ngcol_edit_location
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Center map and current location tools
 
 3. Edit attribute information and attachments as needed.
+
+.. _ngcol_create_point:
+
+Add a polygon
+----------------
+
+To add a polygon to one of the layers, first open the map and tap the plus icon. Then select a layer containing polygons.
+
+.. figure:: _static/ngcoll_add_polygon_en.png
+   :name: ngcoll_add_polygon_pic
+   :align: center
+   :width: 10cm
+ 
+   "Add item" icon
+
+Select the layer to add a polygon to and the way to use for its creation - using map or GPS.
+
+.. figure:: _static/ngcol_map_gps_polygon_en.png
+   :name: ngcol_map_gps_polygon_pic
+   :align: center
+   :width: 10cm
+   
+   Selecting layer and way of adding a polygon
+
+You will be redirected to the map again. A triangle will appear with a cursor at its top left corner. 
+
+.. figure:: _static/ngcol_new_polygon_en.png
+   :name: ngcol_new_polygon_pic
+   :align: center
+   :width: 10cm
+   
+   Polygon template
+
+To modify the shape of the polygon select one apex at a time with the cursor and drag it to the desired location.
+
+.. figure:: _static/ngcol_polygon_edit_en.png
+   :name: ngcol_polygon_edit_pic
+   :align: center
+   :width: 10cm
+   
+   Modifying the shape of the polygon
+
+To safe the new polygon, press the floppy disk icon in the top right corner.
+
+.. figure:: _static/ngcol_polygon_save_en.png
+   :name: ngcol_polygon_save_pic
+   :align: center
+   :width: 10cm
+   
+   "Save" icon
+
+In the next screen enter the necessary attributes and tap the tick in the top panel to complete creating the polygon.
+
+.. figure:: _static/ngcol_polygon_ref_en.png
+   :name: ngcol_polygon_ref_pic
+   :align: center
+   :width: 10cm
+   
+   Completing the creation
+
+Newly created polygon will be visible in the app and on a Web Map in the Web GIS that has this layer added.
+
+.. figure:: _static/ngcol_polygon_complete_en.png
+   :name: ngcol_polygon_complete_pic
+   :align: center
+   :width: 10cm
+   
+   Newly created polygon on the map in the NextGIS Collector app
+   
+.. figure:: _static/ngcol_polygon_on_webmap_en.png
+   :name: ngcol_polygon_on_webmap_pic
+   :align: center
+   :width: 20cm
+   
+   Newly created polygon on a map in Web GIS
+
+..:note:
+
+   Make sure the basemap is below the polygon layer and does not obscure it.
+
+
+.. _ngcol_modify_polygon:
+
+Editing polygons
+-----------------------
+
+To modify a polygon, tap it. It will be outlined in blue and two icons will appear to the right. 
+
+* Top one - editing the shape of the polygon (select an apex with the cursor and drag it).
+* Bottom one - editing the attributes.
+
+.. figure:: _static/ngcol_polygon_editing_tools_en.png
+   :name: ngcol_polygon_editing_tools_pic
+   :align: center
+   :width: 10cm
+   
+   Editing a polygon
+
+
 
 
 .. _ngcol_scale:
