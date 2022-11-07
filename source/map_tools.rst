@@ -24,7 +24,7 @@ There are two ways to add a point in the application:
    :align: center
    :width: 10cm
  
-   Add item icon
+   "Add feature" icon
   
 
 .. figure:: _static/ngcol_map_gps.png
@@ -111,7 +111,109 @@ To edit a point:
 3. Edit attribute information and attachments as needed.
 4. Press floppy disc icon to save changes.
 
-.. _ngcol_create_point:
+
+.. _ngcol_create_line:
+
+Add a line
+----------------
+
+To add a line to one of the layers, first open the map and tap the plus icon. Then select a layer containing lines.
+
+.. figure:: _static/ngcoll_add_polygon_en.png
+   :name: ngcoll_add_line_pic
+   :align: center
+   :width: 10cm
+ 
+   "Add feature" icon
+
+Select the layer to add a line to and the way to use for its creation - using map or GPS.
+
+.. figure:: _static/ngcol_map_gps_line_en.png
+   :name: ngcol_map_gps_line_pic
+   :align: center
+   :width: 10cm
+   
+   Selecting layer and way of adding a line
+
+You will be redirected to the map again. A line will appear with a cursor at its top left corner. 
+
+.. figure:: _static/ngcol_new_line_en.png
+   :name: ngcol_new_line_pic
+   :align: center
+   :width: 10cm
+   
+   Line template
+
+To modify the shape of the line use the cursor to select its anchor points one at a time and drag them to the desired location.
+
+.. figure:: _static/ngcol_line_edit_en.png
+   :name: ngcol_line_edit_pic
+   :align: center
+   :width: 10cm
+   
+   Modifying the shape of the line
+
+To safe the new line, press the floppy disk icon in the top right corner.
+
+.. figure:: _static/ngcol_line_save_en.png
+   :name: ngcol_line_save_pic
+   :align: center
+   :width: 10cm
+   
+   "Save" icon
+
+In the next screen enter the necessary attributes and tap the tick in the top panel to complete creating the line.
+
+.. figure:: _static/ngcol_line_attr_en.png
+   :name: ngcol_line_attr_pic
+   :align: center
+   :width: 10cm
+   
+   Completing the creation
+
+Newly created line will be visible in the app and on a Web Map in the Web GIS that has this layer added.
+
+   
+.. figure:: _static/ngcol_line_on_webmap_en.png
+   :name: ngcol_line_on_webmap_pic
+   :align: center
+   :width: 20cm
+   
+   Newly created line on a map in Web GIS
+
+..:note:
+
+   Make sure the basemap is below the line layer and does not obscure it.
+
+
+.. _ngcol_modify_line:
+
+Editing lines
+-----------------------
+
+To modify a line, tap it. It will be outlined in blue and two icons will appear to the right. 
+
+* Top one - editing the shape of the line (select an apex with the cursor and drag it).
+* Bottom one - editing the attributes.
+
+.. figure:: _static/ngcol_edit_line_en.png
+   :name: ngcol_edit_line_pic
+   :align: center
+   :width: 10cm
+
+   Editing a line
+
+.. figure:: _static/ngcol_line_editing_tools_en.png
+   :name: ngcol_line_editing_tools_pic
+   :align: center
+   :width: 10cm
+   
+   Line editing tools
+
+
+
+
+.. _ngcol_create_polygon:
 
 Add a polygon
 ----------------
@@ -208,7 +310,12 @@ To modify a polygon, tap it. It will be outlined in blue and two icons will appe
    
    Editing a polygon
 
-
+.. figure:: _static/ngcol_polygon_editing_tools_geom_en.png
+   :name: ngcol_polygon_editing_tools_geom_pic
+   :align: center
+   :width: 10cm
+   
+   Polygon editing tools
 
 
 .. _ngcol_scale:
