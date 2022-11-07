@@ -19,12 +19,12 @@ There are two ways to add a point in the application:
 1. Mark it on the map (using a basemap, raster image, etc.)
 2. Using the device's GPS coordinates
 
-.. figure:: _static/ngcol_add_point.png
+.. figure:: _static/ngcol_add_point_en.png
    :name: ngcol_add_point
    :align: center
    :width: 10cm
  
-   Add point icon
+   Add item icon
   
 
 .. figure:: _static/ngcol_map_gps.png
@@ -34,6 +34,34 @@ There are two ways to add a point in the application:
  
    Ways to add a point
 
+To add a point **using the map** you need to indicate its location with the cursor. You can move the cursor automatically to the center of the screen (red cross) or your current location (blue circle) using the buttons in the bottom panel.
+After marking the point press the floppy disk icon in the top right corner to save.
+
+.. figure:: _static/ngcol_save_location_en.png
+   :name: ngcol_save_location
+   :align: center
+   :width: 10cm
+ 
+   Floppy disk icon - save the location of the point
+
+On the next screen you need to set attributive info and, if necessary, attach photos.
+Then confirm adding a point by clicking on the checkmark on the top panel.
+
+.. figure:: _static/ngcol_add_photo.png
+   :name: ngcol_add_photo
+   :align: center
+   :width: 10cm
+ 
+   Attaching a photo. You can select from the device memory or make a new one in the application
+
+.. figure:: _static/ngcol_point_attr_en.png
+   :name: ngcol_point_attr_pic
+   :align: center
+   :width: 10cm
+   
+   Entering attributes and completing the creation
+
+If you choose to add a point **by GPS**, you will be redirected straight to the attribute screen. Add attribute information and tap the tick in the top panel to save the new point.
 
 .. figure:: _static/ngcol_attr_gps.png
    :name: ngcol_attr_gps
@@ -41,42 +69,26 @@ There are two ways to add a point in the application:
    :width: 10cm
  
    Adding a point by GPS
-
-
-After marking a point you can also set an attributive info and, if necessary, attach photos.
-Confirmation of adding a point is done by clicking on the checkmark on the top panel
-(for a map - first, you should save the location of the point with a "Floppy disk" icon in the same panel, after which the attribute information will open).
-
-.. figure:: _static/ngcol_add_photo.png
-   :name: ngcol_add_photo
-   :align: center
-   :width: 10cm
- 
-   Attaching a photo. You can select both from the device memory and make a new one in the application
-
-.. figure:: _static/ngcol_save_location.png
-   :name: ngcol_save_location
-   :align: center
-   :width: 10cm
- 
-   Floppy disk icon - save the location of the point
-
-
+   
+   
 .. _ngcol_modify_point:
 
 Edit a point on the map
 ------------------------
 
-An edit operation involves changing:
+The app allows changing:
 
 1. Point locations
-2. And its attributes / attachments
+2. Point's attributes / attachments
 
-To edit a point you need:
+To edit a point:
 
-1. Select a point by clicking on the map. The toolbar will open on the right side of the screen. Upper - change of location, lower - change of attributive information.
+1. Select a point by clicking on the map. The toolbar will open on the right side of the screen.
 
-.. figure:: _static/ngcol_edit_pont.png
+* Upper - change location, 
+* lower - change attributes.
+
+.. figure:: _static/ngcol_edit_point_en.png
    :name: ngcol_edit_pont
    :align: center
    :width: 10cm
@@ -89,7 +101,7 @@ To edit a point you need:
 - Move the cursor on the map;
 - Use the panel at the bottom of the screen - automatically position the cursor either in the center of the map, or your current location.
 
-.. figure:: _static/ngcol_edit_location.png
+.. figure:: _static/ngcol_edit_location_en.png
    :name: ngcol_edit_location
    :align: center
    :width: 10cm
@@ -97,6 +109,7 @@ To edit a point you need:
    Center map and current location tools
 
 3. Edit attribute information and attachments as needed.
+4. Press floppy disc icon to save changes.
 
 .. _ngcol_create_point:
 
@@ -185,8 +198,8 @@ Editing polygons
 
 To modify a polygon, tap it. It will be outlined in blue and two icons will appear to the right. 
 
-* Top one - editing the shape of the polygon (select an apex with the cursor and drag it).
-* Bottom one - editing the attributes.
+* Upper one - editing the shape of the polygon (select an apex with the cursor and drag it).
+* Lower one - editing the attributes.
 
 .. figure:: _static/ngcol_polygon_editing_tools_en.png
    :name: ngcol_polygon_editing_tools_pic
@@ -207,7 +220,7 @@ The data collector has the ability to control the current scale of the map.
 To do this, on the left side of the map there are items for zooming in and out (+/-).
 In the same block, you can set the map extent by the current location of the device.
 
-.. figure:: _static/ngcol_scale.png
+.. figure:: _static/ngcol_scale_en.png
    :name: ngcol_scale
    :align: center
    :height: 20cm
