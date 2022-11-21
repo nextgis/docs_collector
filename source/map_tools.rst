@@ -181,7 +181,7 @@ Newly created line will be visible in the app and on a Web Map in the Web GIS th
    
    Newly created line on a map in Web GIS
 
-..:note:
+.. note::
 
    Make sure the basemap is below the line layer and does not obscure it.
 
@@ -288,7 +288,7 @@ Newly created polygon will be visible in the app and on a Web Map in the Web GIS
    
    Newly created polygon on a map in Web GIS
 
-..:note:
+.. note::
 
    Make sure the basemap is below the polygon layer and does not obscure it.
 
