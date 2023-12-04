@@ -79,3 +79,11 @@ You can also share your log. Open the menu from the top panel and tap "Share log
 Next step is to select the app to send the log or save it to a cloud or to your device.
 
 
+.. ngcol_mock_location:
+
+Simulation of location data
+----------------------------------------
+
+Third party software can be used as a source of location data for your device 
+
+Turn on Developer mode on your smart phone, select mock location app in developer settings and start simulation. For more details see 'NextGIS Mobile documentation <https://docs.nextgis.com/docs_ngmobile/source/mock_location.html>`_.
