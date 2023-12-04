@@ -86,4 +86,4 @@ Simulation of location data
 
 Third party software can be used as a source of location data for your device 
 
-Turn on Developer mode on your smart phone, select mock location app in developer settings and start simulation. For more details see 'NextGIS Mobile documentation <https://docs.nextgis.com/docs_ngmobile/source/mock_location.html>`_.
+Turn on Developer mode on your smart phone, select mock location app in developer settings and start simulation. For more details see `NextGIS Mobile documentation <https://docs.nextgis.com/docs_ngmobile/source/mock_location.html>`_.
