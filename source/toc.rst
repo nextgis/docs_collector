@@ -13,4 +13,4 @@
    operations
    map_tools
    adv_tools
-   faq_ngmobile
+   faq_ngcollector
