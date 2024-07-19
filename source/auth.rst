@@ -17,10 +17,10 @@
 
 Для авторизации в NextGIS Collector через локальный сервер необходимо указать соответствующий Endpoint в настройках авторизации при входе в приложение (см. :numref:`ngidop_collector`). Если вы перед этим уже вошли через my.nextgis.com - необходимо сначала выйти.
 
-.. figure:: _static/ngidop_collector.png
+.. figure:: _static/ngm_ngidop_ru.jpg
    :name: ngidop_collector
    :align: center
-   :height: 3cm
+   :width: 10cm
    
    Добавление собственного сервера авторизации в NextGIS Collector
 
