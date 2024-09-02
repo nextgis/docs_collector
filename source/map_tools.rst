@@ -340,7 +340,9 @@ In the same block, you can set the map extent by the current location of the dev
 Tracks
 ------
 
-NextGIS Collector allows you to record tracks. The track control icon is on the top panel.
+NextGIS Collector allows you to record tracks. For each point of the track, the following information is recorded: date, time, speed (km/h), height (m), course (bearing i.e. the horizontal direction of travel of this device in the range between 0 and 360 counting clockwise from the North), number of satellites and HDOP.
+
+The track control icon is on the top panel.
 
 .. figure:: _static/ngcol_track_icon.png
    :name: ngcol_track_icon
@@ -378,7 +380,7 @@ To do this, the app must be given permission to write data in the background in 
 
 User-recorded tracks can be shown / hidden, changed digital palette, exported or deleted.
 
-For each point of the track, the following information is recorded: date, time, speed (km/h), height (m), course (bearing i.e. the horizontal direction of travel of this device in the range between 0 and 360 counting clockwise from the North), number of satellites and HDOP.
+
 
 .. figure:: _static/ngcol_track_list.png
    :name: ngcol_track_list
@@ -386,7 +388,8 @@ For each point of the track, the following information is recorded: date, time, 
    :height: 5cm
  
    Recorded track list
-   
+
+Tracks can also be `viewed on a Web Map <https://docs.nextgis.com/docs_ngcom/source/tracking.html#tracking-web-map>`_.
    
 .. _ngcol_sync:
 
