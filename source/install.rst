@@ -4,10 +4,10 @@
 
 Установка приложения
 ====================
-Мобильное приложение NextGIS Collector можно установить из Google Play Store по ссылке - `NextGIS Collector`_.
+Мобильное приложение NextGIS Collector можно установить из Google Play Store по ссылке - `NextGIS Collector <https://play.google.com/store/apps/details?id=com.nextgis.collector>`_.
 Или найти по названию в Google Play Store.
 
- .. figure:: _static/ngc-user-01.png
+.. figure:: _static/ngc-user-01.png
    :name: ngc-user-01
    :align: center
    :width: 10cm
