@@ -8,29 +8,37 @@
 .. note::
     Подробный алгоритм сбора данных описан в `данном <https://docs.nextgis.ru/docs_ngcom/source/collector.html?highlight=%D1%81%D0%B1%D0%BE%D1%80%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85#>`_ разделе.
 
-После успешного входа участник команды по сбору данных увидит список проектов.
+После успешного входа участник команды по сбору данных увидит список проектов. Чтобы увидеть более подробную информацию о проекте, нажмите на три точки справа. Во всплывающем окне будет номер версии проекта и ссылка на размещение проекта в Веб ГИС.
+
+.. figure:: _static/project_info_ru.png
+   :name: project_info_pic
+   :align: center
+   :width: 8cm
+
+   Информация о проекте
+
 Предположим, что в Веб ГИС был создан проект по сбору данных с настройкой стартовой страницы в виде списка.
 При выборе этого тестового проекта мобильное приложение NextGIS Collector отобразит список слоев.
 Также можно переключить в режим карты.
 
- .. figure:: _static/ngc-user-07.png
+.. figure:: _static/ngc-user-07.png
    :name: ngc-user-07
    :align: center
-   :width: 10cm
+   :width: 8cm
 
-   Выберите проект для сбора.
+   Выберите проект для сбора
 
- .. figure:: _static/ngc-user-08.png
+.. figure:: _static/ngc-user-08.png
    :name: ngc-user-08
    :align: center
-   :width: 10cm
+   :width: 8cm
 
    Редактируемые слои проекта
 
- .. figure:: _static/ngc-user-09.png
+.. figure:: _static/ngc-user-09.png
    :name: ngc-user-09
    :align: center
-   :width: 10cm
+   :width: 8cm
 
    Список слоев проекта в режиме просмотра "Карта"
 
