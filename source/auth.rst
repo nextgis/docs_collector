@@ -23,3 +23,10 @@ For authorization in NextGIS Collector via on-premise server, you must specify t
    :width: 10cm
    
    Adding your own authorization server in NextGIS Collector
+
+Change user
+------------
+
+To view the information of the user currently signed in the app, go to the Settings page. 
+
+To change the user, press "Sign out from NextGIS" and log in as described above.
