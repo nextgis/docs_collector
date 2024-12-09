@@ -2,7 +2,7 @@
 
 .. NextGIS Collector TOC
  
-Документация NextGIS Collector
+NextGIS Collector
 ==============================
  
 .. toctree::
