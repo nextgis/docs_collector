@@ -17,7 +17,7 @@
  .. figure:: _static/archive_menu_ru.png
    :name: archive_menu
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Выбор сохранения архива в меню приложения
 
@@ -26,7 +26,7 @@
  .. figure:: _static/archive_layer_select_ru.png
    :name: archive_layer_select
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Выбор слоев для архива
 
@@ -35,7 +35,7 @@
  .. figure:: _static/archive_open_with_ru.png
    :name: archive_open_with
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Выбор приложения для сохранения или пересылки архива
 
@@ -54,7 +54,7 @@
  .. figure:: _static/log_menu_ru.png
    :name: log_menu
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Пункт "Настройки" в основном меню
 
@@ -63,7 +63,7 @@
  .. figure:: _static/log_enabled_ru.png
    :name: log_enabled
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Включение записи лога
 
@@ -72,13 +72,20 @@
  .. figure:: _static/log_share_ru.png
    :name: log_share
    :align: center
-   :width: 10cm
+   :width: 8cm
    
    Выбор действия "Отправить лог" в основном меню
 
 
 Далее выберите приложение, с помощью которого вы хотите отправить лог или сохранить его в облаке или на своем устройстве.
 
+Увидеть, как это работает, также можно в видео:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://rutube.ru/play/embed/c403797954c68d7080cc38a13669c2a8/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+Смотреть на `youtube <https://youtu.be/MfWQKsDfzIY>`_, `rutube <https://rutube.ru/video/c403797954c68d7080cc38a13669c2a8/>`_.
 
 .. _ngcol_mock_location:
 
