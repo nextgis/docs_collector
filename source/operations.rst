@@ -20,12 +20,6 @@ Suppose that a data collection project was created in Web GIS with a start page 
 If you choose this test project NextGIS Collector mobile application displays a list of layers.
 You can also switch to map mode.
 
-.. figure:: _static/collector_projects.png
-   :name: collector_projects
-   :align: center
-   :width: 8cm
-
-   Select a project to collect
 
 .. figure:: _static/collector_layers-1.png
    :name: collector_layers-1
@@ -43,3 +37,37 @@ You can also switch to map mode.
 
 Member data collection team can start editing layers. Editing tools
 and approaches are similar to those used in NextGIS Mobile.
+
+.. _ngcol_offline:
+
+Offline data collection
+---------------------------------
+
+With NextGIS Collector you can collect data even with no Internet connection. 
+
+**Prepare the device**. Beforehand you need to download the project to your device. While connected to the Internet, log in to the app and select the Collector project.
+
+If you need to see the basemap while adding features, download the basemap tiles. Make sure your area of interest is displayed on the screen. Then tap on the downward arrow next to the basemap layer and select the necessary zoom levels. Basemap tiles will be saved in the app cache.
+
+.. figure:: _static/ngcol_base_cache_en.png
+   :name: ngcol_base_cache_pic
+   :align: center
+   :width: 8cm
+
+   Basemap tile cache
+
+While you **collect data** in the field, the edits are stored locally on your device. 
+
+Then you need to **send the data to the cloud**. Connect to the Internet, then press the synchronization icon |button_sync| on the top tab of the app. The data will be sent to the server.
+
+.. |button_sync| image:: _static/button_sync.png
+   :alt: with a cloud
+   :width: 9mm
+
+
+If the connection is lost or other issues occur, you'll get a message about synchronization error. Try again later, when the connection is stabe.
+
+.. important:: Do not exit the project or delete the app, otherwise all the data will be lost. 
+
+If the synchronization is impossible, you can save the collected data to a `ZIP archive <https://docs.nextgis.com/docs_collector/source/adv_tools.html#ngcol-backup>`_ to transfer it another way. 
+
