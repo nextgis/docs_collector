@@ -225,7 +225,7 @@
 Для того, чтобы добавить полигон на один из слоев проекта, нужно перейти к карте и нажать на иконку "+", а затем выбрать слой, содержащий полигоны.
 
 .. figure:: _static/ngcoll_add_polygon_ru.png
-   :name: ngcoll_add_polygon_pic
+   :name: ngcoll_add_polygon_pic_1
    :align: center
    :width: 10cm
  
@@ -234,7 +234,7 @@
 Затем нужно выбрать слой, на который будет добавлен полигон, и способ его добавления - на карте.
 
 .. figure:: _static/ngcol_map_gps_polygon_ru.png
-   :name: ngcol_map_gps_polygon_pic
+   :name: ngcol_map_gps_polygon_pic_1
    :align: center
    :width: 10cm
    
@@ -261,7 +261,7 @@
 Чтобы сохранить новый полигон, нажмите на иконку с дискетой в правом верхнем углу.
 
 .. figure:: _static/ngcol_polygon_save_ru.png
-   :name: ngcol_polygon_save_pic
+   :name: ngcol_polygon_save_pic_1
    :align: center
    :width: 10cm
    
@@ -270,7 +270,7 @@
 На следующем экране введите необходимую аттрибутивную информацию и нажмите галочку в верхней панели для завершения сохранения.
 
 .. figure:: _static/ngcol_polygon_ref_ru.png
-   :name: ngcol_polygon_ref_pic
+   :name: ngcol_polygon_ref_pic_1
    :align: center
    :width: 10cm
    
@@ -305,7 +305,7 @@
 Для того, чтобы добавить полигон на один из слоев проекта, нужно перейти к карте и нажать на иконку "+", а затем выбрать слой, содержащий полигоны.
 
 .. figure:: _static/ngcoll_add_polygon_ru.png
-   :name: ngcoll_add_polygon_pic
+   :name: ngcoll_add_polygon_pic_2
    :align: center
    :width: 10cm
  
@@ -314,7 +314,7 @@
 Затем нужно выбрать слой, на который будет добавлен полигон, и способ его добавления - по gps.
 
 .. figure:: _static/ngcol_map_gps_polygon_ru.png
-   :name: ngcol_map_gps_polygon_pic
+   :name: ngcol_map_gps_polygon_pic_2
    :align: center
    :width: 10cm
    
@@ -325,7 +325,7 @@
 Чтобы сохранить новый полигон, нажмите на иконку с дискетой в правом верхнем углу.
 
 .. figure:: _static/ngcol_polygon_save_ru.png
-   :name: ngcol_polygon_save_pic
+   :name: ngcol_polygon_save_pic_2
    :align: center
    :width: 10cm
    
@@ -334,7 +334,7 @@
 На следующем экране введите необходимую аттрибутивную информацию и нажмите галочку в верхней панели для завершения сохранения.
 
 .. figure:: _static/ngcol_polygon_ref_ru.png
-   :name: ngcol_polygon_ref_pic
+   :name: ngcol_polygon_ref_pic_2
    :align: center
    :width: 10cm
    
@@ -392,7 +392,7 @@
 В этом же блоке можно выставить охват карты по текущему местоположению устройства.
 
 .. figure:: _static/ngcol_scale.png
-   :name: ngcol_scale
+   :name: ngcol_scale_pic
    :align: center
    :width: 10cm
  
@@ -465,7 +465,7 @@
 Для принудительной синхронизации данных с Веб ГИС сборщик может воспользоваться иконкой на верхней панели.
 
 .. figure:: _static/ngcol_sync.png
-   :name: ngcol_sync
+   :name: ngcol_sync_pic
    :align: center
    :width: 10cm
  
