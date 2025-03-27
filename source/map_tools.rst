@@ -328,7 +328,7 @@ To do this, on the left side of the map there are items for zooming in and out (
 In the same block, you can set the map extent by the current location of the device.
 
 .. figure:: _static/ngcol_scale_en.png
-   :name: ngcol_scale
+   :name: ngcol_scale_pic
    :align: center
    :height: 20cm
  
@@ -399,7 +399,7 @@ Synchronization
 To force synchronization of data with Web GIS, you can use the icon on the top panel.
 
 .. figure:: _static/ngcol_sync.png
-   :name: ngcol_sync
+   :name: ngcol_sync_pic
    :align: center
    :height: 5cm
  
