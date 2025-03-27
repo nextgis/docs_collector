@@ -13,7 +13,7 @@ The email and password from the cloud NextGIS ID are used as a login and passwor
 
 
 Via on-premise (NGIDOP)
-----------------------
+-----------------------
 
 For authorization in NextGIS Collector via on-premise server, you must specify the appropriate Endpoint in the authorization settings (см. :numref:`ngidop_collector`).  If you're already logged in with my.nextgis.com - log out first.
 
