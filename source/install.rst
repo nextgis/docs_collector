@@ -1,4 +1,3 @@
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
 
 .. _ngcollector_install:
 
@@ -18,7 +17,7 @@
 После установки запустить приложение, пропустить информационные окна и дать необходимые разрешения:
 
 
- .. figure:: _static/ngc-user-02.png
+.. figure:: _static/ng_collector_run_screen1.png
    :name: ngc-user-02
    :align: center
    :width: 10cm
@@ -26,7 +25,7 @@
    Экран 1
 
 
- .. figure:: _static/ngc-user-03.png
+.. figure:: _static/ng_collector_run_screen2.png
    :name: ngc-user-03
    :align: center
    :width: 10cm
@@ -34,22 +33,14 @@
    Экран 2
 
 
- .. figure:: _static/ngc-user-04.png
+.. figure:: _static/ngc_allow_contacts_ru.png
    :name: ngc-user-04
    :align: center
    :width: 10cm
 
+   Запрос разрешения
 
 
+После этого можно переходить к `авторизации <https://docs.nextgis.ru/docs_collector/source/auth.html>`_.
 
- .. figure:: _static/ngc-user-05.png
-   :name: ngc-user-05
-   :align: center
-   :width: 10cm
-
-
- .. figure:: _static/ngc-user-06.png
-   :name: ngc-user-06
-   :align: center
-   :width: 10cm
 
