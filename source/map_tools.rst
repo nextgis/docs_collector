@@ -1,5 +1,3 @@
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
-
 .. _ngcol_tools:
 
 Основные операции
@@ -71,6 +69,17 @@
    :width: 10cm
  
    Добавление точки по GPS
+
+Если точка выходит за границу проекта (чаще всего это происходит из-за сбоев определения местоположения), появится предупреждение. 
+
+.. figure:: _static/ngcol_gps_warning_ru.png
+   :name: ngcol_gps_warning_pic
+   :align: center
+   :width: 10cm
+
+   Предупреждение о том, что точка не попадает в охват проекта
+
+Объект при этом всё равно будет добавлен в слой.
 
 .. _ngcol_modify_point:
 
@@ -407,9 +416,18 @@
 
 Приложение NextGIS Collector позволяет записывать треки. Для каждой точки трека сохраняется следующая информация: дата, время, скорость (км/ч), высота (в метрах), направление (азимут от направления на север по часовой стрелке, в градусах от 0 до 360), количество спутников (общее количество спутников GPS и ГЛОНАСС) и HDOP.
 
-Иконка управления треками находится на верхней панели.
+Иконка управления треками |button_track| находится на верхней панели.
 
-.. figure:: _static/ngcol_track_icon.png
+.. |button_track| image:: _static/button_track.png
+   :width: 8mm
+   :alt: с человечком
+
+.. |button_sync| image:: _static/button_sync.png
+   :width: 8mm
+   :alt: с облачком
+
+
+.. figure:: _static/ngc_track_icon_ru.png
    :name: ngcol_track_icon
    :align: center
    :width: 10cm
@@ -417,7 +435,7 @@
    Иконка "Треки"
 
 
-.. figure:: _static/ngcol_start_track.png
+.. figure:: _static/ngc_start_track_ru.png
    :name: ngcol_start_track
    :align: center
    :width: 10cm
@@ -427,7 +445,7 @@
 
 Для этого приложению в настройках устройства необходимо дать разрешение на запись данных в фоновом режиме.
 
-.. figure:: _static/ngcol_permissions1.png
+.. figure:: _static/ngc_permissions_backgr1_ru.png
    :name: ngcol_permissions1
    :align: center
    :width: 10cm
@@ -435,7 +453,7 @@
    Уведомление о запросе использования геолокации в фоновом режиме
 
 
-.. figure:: _static/ngcol_permissons2.png
+.. figure:: _static/ngc_permissions_backgr2_ru.png
    :name: ngcol_permissons2
    :align: center
    :width: 10cm
@@ -462,9 +480,9 @@
 Синхронизация
 --------------
 
-Для принудительной синхронизации данных с Веб ГИС сборщик может воспользоваться иконкой на верхней панели.
+Для принудительной синхронизации данных с Веб ГИС сборщик может воспользоваться иконкой |button_sync| на верхней панели.
 
-.. figure:: _static/ngcol_sync.png
+.. figure:: _static/ngc_sync_ru.png
    :name: ngcol_sync_pic
    :align: center
    :width: 10cm
