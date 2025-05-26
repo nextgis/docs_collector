@@ -1,5 +1,3 @@
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.com>
-
 .. _adv_tools:
 
 Вспомогательные функции
@@ -14,7 +12,7 @@
 
 Нажмите три точки в правом верхнем углу и в выпадающем меню выберите «Сохранить архив».
 
- .. figure:: _static/archive_menu_ru.png
+.. figure:: _static/archive_menu_ru_2.png
    :name: archive_menu
    :align: center
    :width: 8cm
@@ -23,7 +21,7 @@
 
 Появится диалогове окно, в котором вы можете выбрать слои, которые хотите включить в архив.
 
- .. figure:: _static/archive_layer_select_ru.png
+.. figure:: _static/archive_layer_select_ru.png
    :name: archive_layer_select
    :align: center
    :width: 8cm
@@ -32,7 +30,7 @@
 
 Далее выберите приложение, с помощью которого вы хотите отправить архив или сохранить его в облаке или на своем устройстве.
 
- .. figure:: _static/archive_open_with_ru.png
+.. figure:: _static/archive_open_with_ru.png
    :name: archive_open_with
    :align: center
    :width: 8cm
@@ -51,16 +49,16 @@
 
 Нажмите три точки в правом верхнем углу и в выпавшем меню выберите «Настройки».
 
- .. figure:: _static/log_menu_ru.png
+.. figure:: _static/log_menu_ru_2.png
    :name: log_menu
    :align: center
    :width: 8cm
    
    Пункт "Настройки" в основном меню
 
-В настройках поставьте галку в пункте «Тщательное логирование».
+В настройках поставьте галку в пункте "Логирование".
 
- .. figure:: _static/log_enabled_ru.png
+.. figure:: _static/log_enabled_ru_2.png
    :name: log_enabled
    :align: center
    :width: 8cm
@@ -69,7 +67,7 @@
 
 Логом также можно поделиться. Для этого вызовите из верхней панели меню и нажмите «Отправить лог».
 
- .. figure:: _static/log_share_ru.png
+.. figure:: _static/log_share_ru_2.png
    :name: log_share
    :align: center
    :width: 8cm
