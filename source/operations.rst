@@ -1,42 +1,55 @@
-.. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
-
 .. _ngcol_oper:
 
 Working with projects
 =====================
 
-After a successful login, team member data collection will see a list of projects.
+.. note::
+    The full algorithm of data collection is described in `this section <https://docs.nextgis.com/docs_ngcom/source/collector.html>`_ .
 
-You can view project info by taping the tree dots on the right. A pop-up will contain the version of the project and its URL.
+After a successful login, data collector will see a list of available projects. You can view project info by taping the tree dots on the right. A pop-up will contain the version of the project and its URL.
 
-.. figure:: _static/project_info_en.png
+.. figure:: _static/project_info_en_2.png
    :name: project_info_pic
    :align: center
    :width: 8cm
 
    Viewing project information
 
-Suppose that a data collection project was created in Web GIS with a start page setting in the form of a list.
-If you choose this test project NextGIS Collector mobile application displays a list of layers.
-You can also switch to map mode.
+To join a project tap on its name, then confirm your choice in the pop-up.
 
-
-.. figure:: _static/collector_layers-1.png
-   :name: collector_layers-1
+.. figure:: _static/ngc_join_en.png
+   :name: ngc_join_pic
    :align: center
    :width: 8cm
 
-   Editable project layers
+   Choose data collection project
 
-.. figure:: _static/collector_layers-2.png
-   :name: ngc-user-09
+There are two types of starting screen for a project. It can be either a map or a list of layers. 
+
+.. figure:: _static/ngc_layer_list_en.png
+   :name: ngc_layer_list_pic
    :align: center
    :width: 8cm
 
-   List of Project Layers in Map View
+   Editable layers of the project
 
-Member data collection team can start editing layers. Editing tools
-and approaches are similar to those used in NextGIS Mobile.
+To switch to the map view, press the |button_map| in the bottom right corner.
+
+.. |button_map| image:: _static/button_map.png
+   :width: 8mm
+
+
+When in map view, press three lines to display the layer tree.
+
+.. figure:: _static/ngc_map_layers_en.png
+   :name: ngc_map_layers_pic
+   :align: center
+   :width: 8cm
+
+   List of layers in the map mode
+
+Now the collector can start `editing layers <https://docs.nextgis.com/docs_collector/source/map_tools.html>`_.
+
 
 .. _ngcol_offline:
 
