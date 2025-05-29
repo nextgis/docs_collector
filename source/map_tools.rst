@@ -1,5 +1,3 @@
-.. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
-
 .. _ngcol_tools:
 
 Basic operations
@@ -70,7 +68,17 @@ If you choose to add a point **by GPS**, you will be redirected straight to the 
  
    Adding a point by GPS
    
-   
+A data collection project may have an extent set up. In this case, if the point falls outside the project boundary (due to geolocation error), a warning will appear.
+
+.. figure:: _static/ngcol_gps_warning_en.png
+   :name: ngcol_gps_warning_pic
+   :align: center
+   :width: 10cm
+
+   Warning about a point outside project extent
+
+The point will still be added to the layer.
+
 .. _ngcol_modify_point:
 
 Edit a point on the map
@@ -330,7 +338,7 @@ In the same block, you can set the map extent by the current location of the dev
 .. figure:: _static/ngcol_scale_en.png
    :name: ngcol_scale_pic
    :align: center
-   :height: 20cm
+   :width: 10cm
  
    Zoom and current location controls
 
@@ -342,38 +350,47 @@ Tracks
 
 NextGIS Collector allows you to record tracks. For each point of the track, the following information is recorded: date, time, speed (km/h), height (m), course (bearing i.e. the horizontal direction of travel of this device in the range between 0 and 360 counting clockwise from the North), number of satellites and HDOP.
 
-The track control icon is on the top panel.
+The track control icon |button_track| is on the top panel.
 
-.. figure:: _static/ngcol_track_icon.png
+
+.. |button_track| image:: _static/button_track.png
+   :width: 8mm
+   :alt: with a walking figure
+
+.. |button_sync| image:: _static/button_sync.png
+   :width: 8mm
+   :alt: cloud
+
+.. figure:: _static/ngc_track_icon_en.png
    :name: ngcol_track_icon
    :align: center
-   :height: 5cm
+   :width: 10cm
  
    Tracks icon
 
 
-.. figure:: _static/ngcol_start_track.png
+.. figure:: _static/ngc_start_track_en.png
    :name: ngcol_start_track
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Starting track recording/track list
 
 
 To do this, the app must be given permission to write data in the background in the device settings.
 
-.. figure:: _static/ngcol_permissions1.png
+.. figure:: _static/ngc_permissions_backgr1_en.png
    :name: ngcol_permissions1
    :align: center
-   :height: 10cm
+   :width: 10cm
  
    Background geolocation request
 
 
-.. figure:: _static/ngcol_permissons2.png
+.. figure:: _static/ngc_permissions_backgr2_en.png
    :name: ngcol_permissons2
    :align: center
-   :height: 10cm
+   :width: 10cm
    
    Allow location to be used in any (including background) mode
 
@@ -382,10 +399,10 @@ User-recorded tracks can be shown / hidden, changed digital palette, exported or
 
 
 
-.. figure:: _static/ngcol_track_list.png
+.. figure:: _static/ngc_track_list_en.png
    :name: ngcol_track_list
    :align: center
-   :height: 5cm
+   :width: 10cm
  
    Recorded track list
 
@@ -396,11 +413,11 @@ Tracks can also be `viewed on a Web Map <https://docs.nextgis.com/docs_ngcom/sou
 Synchronization
 ----------------
 
-To force synchronization of data with Web GIS, you can use the icon on the top panel.
+To force synchronization of data with Web GIS, you can use the |button_sync| icon on the top panel.
 
-.. figure:: _static/ngcol_sync.png
+.. figure:: _static/ngc_sync_en.png
    :name: ngcol_sync_pic
    :align: center
-   :height: 5cm
+   :width: 10cm
  
    Synchronization
