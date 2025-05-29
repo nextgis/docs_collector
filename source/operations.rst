@@ -42,7 +42,7 @@
 На карте чтобы увидеть список слоёв нажмите на три полоски в левом верхнем углу.
 
 .. figure:: _static/ngc_map_layers_ru.png
-   :name: ngc-user-09
+   :name: ngc_map_layers_pic
    :align: center
    :width: 8cm
 
