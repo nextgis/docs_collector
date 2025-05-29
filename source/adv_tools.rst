@@ -1,5 +1,3 @@
-.. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
-
 .. _adv_tools:
 
 Advanced tools
@@ -14,7 +12,7 @@ In NextGIS Collector app allows you can share the collected data as a zip file.
 
 Press three dots in the top right corner and select "Backup data" in the drop-down menu.
 
- .. figure:: _static/backup_menu_eng.png
+ .. figure:: _static/backup_menu_en.png
    :name: backup_menu
    :align: center
    :width: 10cm
@@ -23,7 +21,7 @@ Press three dots in the top right corner and select "Backup data" in the drop-do
    
 In the opened dialog you can select which layers to include in the backup.
 
- .. figure:: _static/backup_layer_select_eng.png
+ .. figure:: _static/backup_layer_select_en.png
    :name: backup_layer_select
    :align: center
    :width: 10cm
@@ -32,7 +30,7 @@ In the opened dialog you can select which layers to include in the backup.
 
 Next step is to select the app to send the backup or save it to a cloud or to your device.
 
- .. figure:: _static/backup_open_with_eng.png
+ .. figure:: _static/backup_open_with_en.png
    :name: backup_open_with
    :align: center
    :width: 10cm
@@ -51,7 +49,7 @@ NextGIS Collector app allows you to record your activities and technical data in
 
 Tap three dots in the top right corner and select "Settings" in the drop-down menu.
 
- .. figure:: _static/log_menu_eng.png
+ .. figure:: _static/log_menu_en.png
    :name: log_menu
    :align: center
    :width: 10cm
@@ -60,7 +58,7 @@ Tap three dots in the top right corner and select "Settings" in the drop-down me
 
 In Settings tick "Extended logs".
 
- .. figure:: _static/log_enabled_eng.png
+ .. figure:: _static/log_enabled_en.png
    :name: log_enabled
    :align: center
    :width: 10cm
@@ -69,7 +67,7 @@ In Settings tick "Extended logs".
 
 You can also share your log. Open the menu from the top panel and tap "Share log".
 
- .. figure:: _static/log_share_eng.png
+ .. figure:: _static/log_share_en.png
    :name: log_share_eng
    :align: center
    :width: 10cm
@@ -77,6 +75,16 @@ You can also share your log. Open the menu from the top panel and tap "Share log
    Selecting "Share log" in the app menu
 
 Next step is to select the app to send the log or save it to a cloud or to your device.
+
+.. _ngc_logs_steps:
+
+How to get useful logs
+~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Turn on logging.
+2. Repeat your actions until the issue arises again.
+3. Send the logs to support.
+4. Turn off logging.
 
 
 .. ngcol_mock_location:
