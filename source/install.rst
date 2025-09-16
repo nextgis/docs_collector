@@ -49,3 +49,22 @@ Run app after installation, skip information and grant permissions to NextGIS Co
    :name: ngc-user-06
    :align: center
    :width: 10cm
+
+
+.. _ngmobile_launch_conditions:
+
+Hardware and software requirements
+-------------------------------------
+
+To launch NextGIS Mobile you need a device (smartphone, tablet, etc.) with :term:`Android` **8.0** or higher.
+
+To be able to use all NextGIS Mobile features the device should have the following hardware:
+
+* :term:`GPS` and/or :term:`GLONASS` sensor;
+* digital compass;
+* cellular module;
+* rear camera.
+
+If any of these items are missing from the device, the related functions will not be available.
+
+NextGIS Mobile does not impose specific system requirements regarding memory. However, the amount of system memory and storage space can limit the size of uploaded geodata.
