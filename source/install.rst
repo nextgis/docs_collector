@@ -44,7 +44,7 @@
 
 После этого можно переходить к `авторизации <https://docs.nextgis.ru/docs_collector/source/auth.html>`_.
 
-.. _ngmobile_launch_conditions:
+.. _launch_conditions:
 
 Системные требования
 ---------------------
