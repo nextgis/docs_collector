@@ -12,7 +12,7 @@ NextGIS Collector mobile application can be installed from the `Google Play Stor
    :align: center
    :width: 10cm
 
-   Search in в Play Market
+   Search in Play Market
 
 
 Run app after installation, skip information and grant permissions to NextGIS Collector:
