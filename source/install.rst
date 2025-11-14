@@ -51,7 +51,7 @@ Run app after installation, skip information and grant permissions to NextGIS Co
    :width: 10cm
 
 
-.. _ngmobile_launch_conditions:
+.. _launch_conditions:
 
 Hardware and software requirements
 -------------------------------------
