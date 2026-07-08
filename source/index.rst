@@ -20,4 +20,6 @@ NextGIS Collector
    operations
    map_tools
    adv_tools
+   changelog
    faq_ngcollector
+
