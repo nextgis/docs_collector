@@ -17,6 +17,7 @@ Watch on `youtube <https://youtu.be/SvO41DavWm0?si=vPrdJsYSmsnZEJY2>`_.
    operations
    map_tools
    adv_tools
+   changelog
 
 
 * :ref:`genindex`
