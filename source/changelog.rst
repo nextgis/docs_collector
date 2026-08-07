@@ -1,6 +1,14 @@
 Changelog
 =========
 
+**2.0.3 released on 05 Aug 2026**
+
+- Device ID can now be copied by tapping it
+- Fixed the prompt to save changes appearing when no changes were made
+- Fixed issues with the “initial extent” functionality
+- Fixed an issue where a layer added to a project with a style was not displayed
+- Fixed navigation to the current location when tapping “move point to the center of the screen”
+
 **2.0.2 released on 30 Jun 2026**
 
 * Added support for the “Spacer” element in forms
